@@ -21,10 +21,3 @@ Bu proje, **.NET 9.0** kullanılarak geliştirilmiş bir **Blog API** uygulamas�
 - `appsettings.json` → Proje konfigürasyon ayarları  
 
 ---
-
-## 🔧 Kurulum ve Çalıştırma
-
-### 1️⃣ Projeyi Klonla
-```bash
-git clone https://github.com/kullaniciadi/blog-api.git
-cd blog-api
